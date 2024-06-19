@@ -1,0 +1,13 @@
+
+ velocity10
+
+ angle45
+
+ maximum height 2.548420
+ time of flight 1.441604
+ velocity20
+
+ angle60
+
+ maximum height 15.290520
+ time of flight 3.531194
